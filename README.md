@@ -104,7 +104,7 @@ Execute the program
               <div class="copyright-text">
                 <p>
                   © 2022
-                  <a><u>Private Time Table.</u></a> Made With <img src="https://cdn.discordapp.com/attachments/533340656987275284/914065271138951198/796614640469016636.gif" alt="❤"width="20" height="20"> by<a><u> Yogeshvar sec</u></a>
+                  <a><u>Private Time Table.</u></a> Made With <img src="https://cdn.discordapp.com/attachments/533340656987275284/914065271138951198/796614640469016636.gif" alt="❤"width="20" height="20"> by<a><u> Rishi M</u></a>
                 </p>
               </div>
             </div>
