@@ -159,9 +159,9 @@ Execute the program
 
 
 ## OUPUT:
-![output](.\time.png)
+![output](./time.png)
 ## HTML VALIDATOR
-![OUTPUT](.\check.png)
+![output](./check.png)
 
 ## RESULT
 The program for creating slot time table is completed successfully
